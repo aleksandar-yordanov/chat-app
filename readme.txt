@@ -1,4 +1,4 @@
-JVGW34 Instant messenger:
+CLI Instant messenger:
 
 Server setup:
 To use server.py, run the python file with a port as an argument
